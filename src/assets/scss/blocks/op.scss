@@ -1,0 +1,14 @@
+.wrapper {
+    background: linear-gradient(135deg, rgba(160,32,160,1) 0%,rgba(247,255,137,1) 100%);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
